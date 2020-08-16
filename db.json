@@ -1,0 +1,10 @@
+{
+  "firstName":"Santosh",
+  "lastName":"Sutar",
+  "address":{
+      "street":"7th Steet, Hebbal",
+      "city":"Bengaluru",
+      "state":"Karnataka",
+      "Country":"India"
+  }
+}
